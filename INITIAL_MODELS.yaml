@@ -77,7 +77,7 @@ sd-1/controlnet/canny:
    recommended: True
 sd-1/controlnet/inpaint:
    repo_id: lllyasviel/control_v11p_sd15_inpaint
-   recommended: False
+   recommended: True
 sd-1/controlnet/mlsd:
    repo_id: lllyasviel/control_v11p_sd15_mlsd
    recommended: False
